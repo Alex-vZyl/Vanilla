@@ -1,0 +1,3 @@
+[submodule "External/tauri"]
+	path = External/tauri
+	url = https://github.com/tauri-apps/tauri
