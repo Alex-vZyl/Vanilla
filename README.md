@@ -1,3 +1,3 @@
-# RustLearning
+# Vanilla
 
-This repository is used to learn rust.  It does not contain any production code.
+This is my personal playground repository, where I try out different technologies and frameworks.
