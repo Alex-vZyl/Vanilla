@@ -1,3 +1,6 @@
 [submodule "External/tauri"]
 	path = External/tauri
 	url = https://github.com/tauri-apps/tauri
+[submodule "External/bevy"]
+	path = External/bevy
+	url = https://github.com/bevyengine/bevy
