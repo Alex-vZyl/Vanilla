@@ -4,3 +4,9 @@
 [submodule "External/bevy"]
 	path = External/bevy
 	url = https://github.com/bevyengine/bevy
+[submodule "External/bgfx"]
+	path = External/bgfx
+	url = https://github.com/bkaradzic/bgfx
+[submodule "External/imgui"]
+	path = External/imgui
+	url = https://github.com/Alex-vZyl/imgui
